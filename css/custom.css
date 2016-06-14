@@ -1,0 +1,16 @@
+.reveal .strikethru {
+  text-decoration: line-through;
+}
+.reveal .italic {
+  font-style: italic;
+}
+.reveal .white {
+  color: #FFF;
+}
+.reveal .hot {
+  color: #fe2b75;
+}
+.reveal .hot-background {
+  color: #FFF;
+  background-color: #fe2b75;
+}
